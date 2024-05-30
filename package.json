@@ -1,7 +1,7 @@
 {
-  "name": "hello-world-npm",
+  "name": "hello-world-npm-version",
   "version": "1.0.0",
-  "description": "Hello World NPM example",
+  "description": "Hello World NPM example with version in output",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "hello",
     "world",
-    "hello-world"
+    "hello-world",
+    "version"
   ],
   "bin": {
     "hello-world-npm": "./bin.js"
